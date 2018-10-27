@@ -10,8 +10,10 @@
 4. Cetak max
 
 **flowchart program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan1/flowchart1.jpg
 
 **pict program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan1/pict1.png
 
 **Kode lengkap program**
 ```
@@ -59,8 +61,10 @@ int main(){
 13. Jika kondisi *False* maka cetaklah bilangan secara berurutan dari yang terkecil-terbesar yaitu C,B,A
 
 **Fowchart program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan2/flowchart2.jpg
 
 **pict program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan2/pict2.png
 
 **Kode lengkap program**
 ```
@@ -111,8 +115,10 @@ int main(){
 5. Selain itu tampilkan segitiga sembarang 
 
 **flowchart program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan3/flowchart3.png
 
 **Pict program**
+https://github.com/rivaldiahmad/praktikum3/blob/master/latihan3/pict3.png
 
 **Code lengkap program**
 ```
